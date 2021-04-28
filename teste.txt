@@ -1,4 +1,0 @@
-teste 1
-entendento o HEAD
-Esta linha fopi modificicada no ramo master
-esta linha foi modificada no ramo teste
